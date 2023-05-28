@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left">:wave: Hello there! I'm Frontend developer</h1>
 
-<!--
-**020AlievIB/020AlievIB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+Codewars
+[![codewars](https://www.codewars.com/users/BartHA/badges/large)](https://www.codewars.com/users/BartHA) 
 
-Here are some ideas to get you started:
+<h2 align="left">My Stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>React</li>
+  <li>Ionic Framework</li>
+  <li>TypeScript</li>
+  <li>Apollo GraphQL</li>
+  <li>NextJS</li>
+  <li>Capacitor</li>
+  <li>React Query</li>
+  <li>and other libs</li>
+</ul>
+
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AlievIB) 
