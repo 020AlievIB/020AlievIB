@@ -2,7 +2,7 @@
 
 <br>
 
-[![codewars](https://www.codewars.com/users/BartHA/badges/large)](https://www.codewars.com/users/BartHA) 
+[![codewars](https://www.codewars.com/users/AlievIB/badges/large)](https://www.codewars.com/users/BartHA) 
 
 <h2 align="left">My Stack</h2>
 
