@@ -2,8 +2,6 @@
 
 <br>
 
-[![codewars](https://www.codewars.com/users/AlievIB/badges/large)](https://www.codewars.com/users/BartHA) 
-
 <h2 align="left">My Stack</h2>
 
 <ul>
