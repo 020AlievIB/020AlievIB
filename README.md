@@ -1,6 +1,3 @@
-<h1 align="left">:wave: Hello there! I'm Frontend developer</h1>
-
-<br>
 
 <h2 align="left">My Stack</h2>
 
